@@ -1,2 +1,2 @@
-# Emoticons-meaning
-Select any of the emoticon and get the meaning of what emoticon is expressing.
+# Emoticon-interpreter
+Select any of the emoticon from the list and get the meaning of what emoticon is expressing.
