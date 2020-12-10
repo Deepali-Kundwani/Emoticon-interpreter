@@ -56,6 +56,9 @@ export default function App() {
 
       <h3> emojis we know </h3>
       {ej}
+      <div className="Division">
+        <p> Select the emoji and get the meaning out of it.</p>
+      </div>
     </div>
   );
 }
