@@ -6,8 +6,8 @@ var emojiDictionary = {
   "😳": "disbelief",
   "😔": "sad",
   "🥡": "takeout box",
-  "❤️": "love",
-  "😑": "annoyance"
+  "❤️": "love"
+
 };
 
 var ej = 0;
